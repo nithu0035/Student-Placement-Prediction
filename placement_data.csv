@@ -1,0 +1,11 @@
+gender,ssc_p,hsc_p,degree_p,workex,status
+M,67,65,60,Yes,Placed
+F,78,75,70,No,Placed
+M,55,58,55,No,Not Placed
+F,90,92,85,Yes,Placed
+M,60,62,58,No,Not Placed
+F,85,83,80,Yes,Placed
+M,72,70,65,Yes,Placed
+F,88,86,82,No,Placed
+M,65,68,62,No,Not Placed
+F,80,82,78,Yes,Placed
